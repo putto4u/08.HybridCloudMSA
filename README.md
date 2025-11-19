@@ -1,2 +1,2 @@
-# 08.HybridCloudMSA
+# 08.Hybrid Cloud MSA
 Hybrid Cloud MSA
